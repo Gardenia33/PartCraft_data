@@ -1,0 +1,44 @@
+{
+  "animation_count": 0,
+  "armature_count": 0,
+  "edge_count": 1464,
+  "file_identifier": "https://github.com/Gardenia33/dataset_stl-obj/blob/main/cad_json_stl_output/0038/00382027.stl",
+  "file_size": 48884,
+  "lamp_count": 1,
+  "linked_files": [],
+  "material_count": 0,
+  "mesh_count": 1,
+  "metadata": {
+    "github_organization": "Gardenia33",
+    "github_repo": "dataset_stl-obj"
+  },
+  "missing_textures": {
+    "count": 0,
+    "file_path_to_color": {},
+    "files": []
+  },
+  "object_count": 4,
+  "poly_count": 976,
+  "random_color": [
+    0.8,
+    0.8,
+    0.8,
+    1
+  ],
+  "save_uid": "00382027.stl",
+  "scene_size": {
+    "bbox_max": [
+      0.375,
+      0.3748834431171417,
+      0.75
+    ],
+    "bbox_min": [
+      -0.375,
+      -0.3748834431171417,
+      0.0
+    ]
+  },
+  "sha256": "7728fa4b69edcc41544e62d51e0b679414e5fd9aa1ee1177794acf1314448102",
+  "shape_key_count": 0,
+  "vert_count": 488
+}
