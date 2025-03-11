@@ -1,0 +1,44 @@
+{
+  "animation_count": 0,
+  "armature_count": 0,
+  "edge_count": 426,
+  "file_identifier": "https://github.com/fazhihe/WHUCAD/blob/main/data/brep/0100/100000310.stl",
+  "file_size": 77360,
+  "lamp_count": 1,
+  "linked_files": [],
+  "material_count": 0,
+  "mesh_count": 1,
+  "metadata": {
+    "github_organization": "fazhihe",
+    "github_repo": "WHUCAD"
+  },
+  "missing_textures": {
+    "count": 0,
+    "file_path_to_color": {},
+    "files": []
+  },
+  "object_count": 4,
+  "poly_count": 284,
+  "random_color": [
+    0.8,
+    0.8,
+    0.8,
+    1
+  ],
+  "save_uid": "100000310.stl",
+  "scene_size": {
+    "bbox_max": [
+      0.296875,
+      0.375,
+      0.1429276019334793
+    ],
+    "bbox_min": [
+      -1.2270890206256694e-17,
+      -0.375,
+      -0.078125
+    ]
+  },
+  "sha256": "a3ae47288f2697aa638d6f353a734ee572800910bdbedd33e92a48426f58895a",
+  "shape_key_count": 0,
+  "vert_count": 144
+}
