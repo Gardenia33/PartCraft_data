@@ -1,0 +1,39 @@
+{
+  "animation_count": 0,
+  "armature_count": 0,
+  "edge_count": 2701,
+  "file_identifier": "https://github.com/Gardenia33/dataset_stl-obj/blob/main/cad_obj_test_fushion360gallery_reconstruction/90917_4d6ea65a_0000.obj",
+  "file_size": 169378,
+  "lamp_count": 1,
+  "linked_files": [],
+  "material_count": 1,
+  "mesh_count": 1,
+  "metadata": {
+    "github_organization": "Gardenia33",
+    "github_repo": "dataset_stl-obj"
+  },
+  "missing_textures": {
+    "count": 0,
+    "file_path_to_color": {},
+    "files": []
+  },
+  "object_count": 4,
+  "poly_count": 1292,
+  "random_color": null,
+  "save_uid": "90917_4d6ea65a_0000",
+  "scene_size": {
+    "bbox_max": [
+      3.5999999046325684,
+      3.5,
+      0.4000001549720764
+    ],
+    "bbox_min": [
+      -3.5999999046325684,
+      -1.2999999523162842,
+      -5.68248026411311e-08
+    ]
+  },
+  "sha256": "0bd8af27ff4fbf2f35dd9af49d61b3308f75f6225677bc12eeb345f869a97aff",
+  "shape_key_count": 0,
+  "vert_count": 1526
+}
